@@ -1,5 +1,6 @@
 # FOHEART C1 Mocap Suit Unity 3D Demo -- SharkMan
 # Please refer Wiki pages of this project for more details
+![MainThumb](https://raw.githubusercontent.com/FOHEART/U3D_Demo_SharkMan/master/Assets/Thumbnail/SharkMan.png)
 #[Version 1.0]
 Beijing FOHEART Co.Ltd.
 
